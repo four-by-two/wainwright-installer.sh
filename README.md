@@ -1,5 +1,5 @@
 # wainwright-installer.sh
-installer without docker for ubuntu &amp; debian -- for fast dev setup with wainwright casino plugins: https://gitlab.com/casinoman
+installer without docker for ubuntu &amp; debian -- for fast dev setup with wainwright casino plugins: https://github.com/casino-man
 
 installs nginx, sets it up, install php8.1, install redis-tools, links domain to working directory, clones laravel directory, clones remote wainwright packages from config.
 
