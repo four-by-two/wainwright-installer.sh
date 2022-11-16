@@ -22,11 +22,11 @@
         "laravel/pint": "^1.0",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^6.1",
+
         "phpunit/phpunit": "^9.5.10",
         "spatie/laravel-ignition": "^1.0",
-        "wainwright/casino-dog": "*",
-        "wainwright/casino-dog-operator-api": "*"
+        "wainwright-dev/casinodog-dev": "*",
+        "wainwright-dev/casinodog-api-client": "*"
     },
     "autoload": {
         "psr-4": {
