@@ -92,7 +92,7 @@ sudo rm -r casinodog/.github
 sudo mv wainwright-tmp casinodog/.wainwright
 sudo cp .env.casinodog casinodog/.env
 sudo cp .env.casinodog casinodog/.env.casinodog
-cp composer_template.json casinodog/composer_template.json
+cp composer_template.json casinodog/composer.json
 
 #installing redis
 sudo mkdir "$(pwd -P)"/redis-setup
